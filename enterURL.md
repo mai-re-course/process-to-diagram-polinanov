@@ -28,3 +28,7 @@
 2а. <a name="Запрос_DNS"></a> *Запрос DNS.*  
 2а1. Если запрошенный URL отсутствует в кэше, DNS-сервер интернет-провайдера инициирует запрос DNS, чтобы найти IP-адрес сервера, на котором размещен maps.google.com.  
 Возврат на шаг 3.
+
+
+# Диаграмма activity
+![activity_for_group_call](http://polinanov.mati.su/svg/ativitydz2.png "Диаграмма activity")
