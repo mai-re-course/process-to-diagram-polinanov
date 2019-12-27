@@ -37,4 +37,4 @@
 ![sequence](http://www.plantuml.com/plantuml/png/LP9HQoen48NVvrSCtfVrmVi3v7AHhOKMIf56dqEwEs1mJUpChCL_tud4whuUpldcp2GhqS0w7WS8dMR6dH33PnvJ7_Y2ivRpjoap388jKDAefZhYSnKTG8dWuZ-sItnEIknt7s_D70emdeCIjlXd7VZWmd3C2L8sALk-1BezTGU_VdUUgSlS-owOrCp_0W8OOb1a-Xf9b7eqBaP10s1Cg7l2gzkSY6rfu9POKERdYpL0_AtW411TRSaafvo4_ElcwkhfqKU3699I3t23shYeCIY9tpvjV9TJ8alaPF5xrEp_5kZk_4Pvf3bCyJUcs0JnBzljnjSDfx27EvK6SZsvFt7kI8IagI6x541TRCgi7QRpwqxboPROHpaDuI9b8QMaKsyBAyELd_43 "Диаграмма sequence")
 
 # Диаграмма component 
-![component](http://polinanov.mati.su/svg/component_new.png "Диаграмма component")
+![component](http://polinanov.mati.su/svg/компонентная.png "Диаграмма component")
